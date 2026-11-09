@@ -1,0 +1,18 @@
+flutter_native_splash:
+
+
+   android: true
+   ios: true
+   web: false
+
+   color: "#FFFFFF"
+   image: assets/images/facebookLogo.png
+   branding_android:     assets/images/branding.png
+
+
+   android_12:
+
+    color: "#FFFFFF"
+    image: assets/images/facebookAndroid.png
+
+    branding:      assets/images/branding.png
